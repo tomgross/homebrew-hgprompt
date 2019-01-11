@@ -1,2 +1,9 @@
 # homebrew-hgprompt
-A tap for the Mercurial bash script
+
+A tap for the Mercurial bash prompt
+
+## Install
+
+brew install 
+
+
